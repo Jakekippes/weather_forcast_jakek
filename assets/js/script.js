@@ -17,7 +17,7 @@ function find(previousCity){
     return 1;
 }
 //Set up the API key
-let APIKey="436429f5379fb07b83cab3d5aaa49133";
+let APIKey="b9908f20e2e77c95667780cf5ea0df21";
 // Display the current weather in box 
 function displayWeather(event){
     event.preventDefault();
